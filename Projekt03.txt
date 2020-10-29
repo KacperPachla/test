@@ -4,3 +4,4 @@ oraz
 Dodano asystenta pomocy
 Uproszczony system graficzny
 easierApp
+Zmiana09
