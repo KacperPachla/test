@@ -5,3 +5,5 @@ Dodano asystenta pomocy
 Uproszczony system graficzny
 easierApp
 Zmiana09
+Zmiana10a Zmiana10b
+Zmiana12
