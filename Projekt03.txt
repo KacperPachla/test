@@ -1,3 +1,6 @@
 Zmiana07b
 naprawa b³êdów - hotFix-001
-
+oraz
+Dodano asystenta pomocy
+Uproszczony system graficzny
+easierApp
